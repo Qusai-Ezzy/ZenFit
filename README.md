@@ -3,7 +3,6 @@
 Frontend development project using Flutter and Dart, focused on creating an intuitive UI/UX design for a fitness application.
 
 Key Features:
-
 Step counter powered by an accelerometer-trained model
 Calorie tracker with a database of over 2,000 food items
 Blood pressure tracking functionality
