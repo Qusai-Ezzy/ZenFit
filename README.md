@@ -1,16 +1,15 @@
 # fitness_app
 
-A new Flutter project.
+Frontend development project using Flutter and Dart, focused on creating an intuitive UI/UX design for a fitness application.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
+Step counter powered by an accelerometer-trained model
+Calorie tracker with a database of over 2,000 food items
+Blood pressure tracking functionality
+BMI calculator for user health insights
+Additional functionalities include:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Secure account logins and data storage
+Stored workouts using the MegaGym dataset
+Detailed stats analysis and pre-installed diet plans
